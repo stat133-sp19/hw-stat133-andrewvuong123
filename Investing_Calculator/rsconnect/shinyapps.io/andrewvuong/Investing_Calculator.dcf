@@ -1,0 +1,12 @@
+name: Investing_Calculator
+title: Investing_Calculator
+username:
+account: andrewvuong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 870577
+bundleId: 2017192
+url: https://andrewvuong.shinyapps.io/Investing_Calculator/
+when: 1555459847.10749
+asMultiple: FALSE
+asStatic: FALSE
