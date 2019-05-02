@@ -1,0 +1,16 @@
+Package: binomial
+Type: Package
+Title: Binomial Random Variable Probabilities
+Version: 0.1.0
+Author: Andrew Vuong
+Maintainer: Andrew Vuong <andrew.vuong@berkeley.edu>
+Description: Functions for calculating probabilities of a Binomial random variable, and related calculations such as the probability distribution, the expected value variance, etc.
+License: No License
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat, knitr, rmarkdown
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2019-05-02 22:02:53 UTC; andrew_vuong
+Built: R 3.5.2; ; 2019-05-02 22:02:57 UTC; unix
